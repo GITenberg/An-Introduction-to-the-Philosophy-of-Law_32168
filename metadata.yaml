@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35706'
     url: http://www.gutenberg.org/2009/agents/35706
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32168#An-Introduction-to-the-Philosophy-of-Law
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2010-04-28'
 gutenberg_type: Text
